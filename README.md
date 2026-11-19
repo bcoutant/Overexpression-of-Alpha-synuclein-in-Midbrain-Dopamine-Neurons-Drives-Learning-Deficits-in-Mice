@@ -1,0 +1,2 @@
+# Overexpression-of-Alpha-synuclein-in-Midbrain-Dopamine-Neurons-Drives-Learning-Deficits-in-Mice
+The code weas build in order to analyze all the data used in our paper titled "Overexpression of synuclein in Midbrain Dopamine Neurons Drives Learning Deficits in Mice". Here, we worked on a progressive mouse model of Parkinson's disease in order to study cognitive impairment in the early phase of the disease. 
